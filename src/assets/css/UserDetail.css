@@ -1,0 +1,26 @@
+.user-detail-txt {
+  margin: 0;
+  margin-bottom: 2vh;
+}
+
+.right-table {
+  width: 60%;
+  padding: 3vh 4vh;
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+
+.right-tr {
+  border-bottom: 5px solid transparent;
+}
+
+.right-td {
+  font-weight: bold;
+  border-right: 5px solid transparent;
+  width: 40%;
+}
+
+.right-td-rr {
+  border-left: 5px solid transparent;
+  width: 60%;
+}
