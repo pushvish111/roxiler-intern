@@ -7,11 +7,16 @@
 
 .app-body {
   width: 100%;
-  margin-top: 10vh;
-  padding: 5vh 15vh;
+  margin-top: 2vh;
+  padding: 2vh 15vh;
   display: flex;
   justify-content: center;
   align-items: flex-start;
+}
+.search-bar-div {
+  width: 100%;
+  margin-top: 5vh;
+  padding: 2vh 15vh;
 }
 
 .left,
